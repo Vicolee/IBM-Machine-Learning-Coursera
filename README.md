@@ -1,1 +1,1 @@
-# coursera-capstone-project
+# IBM-Machine-Learning-Coursera
